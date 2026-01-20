@@ -5,7 +5,6 @@
 // for(let i=1; i<=n; i++){
 //     for(let j=1; j<=i; j++){
 //     num = num +j+" ";
-//     // num = num * 10 + j;
 //     }
 //     num += '\n';
 // }
